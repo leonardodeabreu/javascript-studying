@@ -21,5 +21,6 @@ console.log(typeof Number)
 // alguns cuidados
 console.log(7/0) // tipo Infinity
 console.log("10"/2) // tipagem fraca de dados
+console.log("3"+2) // string ganha !
 console.log("10,2"/2) // nao funciona
 console.log(0.1 + 0.7) // problema com ponto flutuante
